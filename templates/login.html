@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        * {
+            margin: 0;
+            padding:0;
+            box-sizing: border-box;
+        }
+
+        body {
+            height: 100%;
+            width: 80%;
+        }
+        #id {
+            
+        }
+
+        #username, #password {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 20px 10%;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 20px;
+        }
+
+        #submit {
+            font-size: 32px;
+            position: relative;
+            top: 20px;
+            left: 10%;
+            padding: 8px;
+            color: white;
+            background-color: green;
+            border-radius: 10px;
+        }
+        h1 {
+            position: relative;
+            left: 10%;
+            margin-top: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Formularen</h1>
+
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
+        {{ form.username }}
+        {{ form.password }}
+        {{ form.submit }}
+    </form>
+
+
+</body>
+</html>

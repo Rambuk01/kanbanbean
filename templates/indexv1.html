@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block head %}
+<title>Formularen</title>
+{% endblock%}
+{% block body%}
+<div class="form flex">
+        
+    <form action="ordre.html" method="POST">
+        <div class="row flex">
+            <div class="client-info half-width">
+                Navn:    <input type="text" name="navn" required>
+                Adresse:    <input type="text" name="adresse">
+                By:         <input type="text" name="by">
+                Postnummer: <input type="text" name="postnummer">
+                Telefon:    <input type="text" name="telefon" required>
+                E-mail:     <input type="text" name="email">
+            </div>
+            <div class="faktura-info slim-width">
+                Tid:        <input type="text" name="tid" required>
+                Voksne:     <input type="number" id="voksne" name="voksne" value="0" onchange="updateInput(value)">
+                Børn:       <input type="number" id="børn" name="børn" value="0" onchange="updateInput(value)">
+                <input style="margin-top: 33px;" type="checkbox" id="email_bekraeft" name="email_bekraeft" value="yes"> <label for="email_bekraeft">Email<br></label><!-- email bestilligns bekræftigelse til kunde -- checkbox -->
+                <input style="margin-top: 52px;" type="checkbox" id="bekraeft_transport" name="bekraeft_transport" value="yes" onchange="transportInput(value)"> <label for="bekraeft_transport">Udbringning</label>
+            </div>
+            <div class="faktura-info slim-width">
+                Dato:       <input type="date" name="dato" required>
+            </div>
+        </div>
+        <div class="row flex"> 
+            <div class="ordre">
+                Forret:       <textarea name="forret" rows="4"></textarea><br>
+                Hovedret:     <textarea name="hovedret" rows="5"></textarea><br>
+                Desert:       <textarea name="desert" rows="3"></textarea><br>
+                Noter:        <textarea name="noter" rows="2"></textarea>
+            </div>
+            <div class="priser slim-width">
+                Transport:  <input type="text" id="transport" name="transport" value="0" onchange="updateInput(value)">
+                Enhedspris: <input type="text" name="enhedspris" id="enhedspris" value="0" onchange="updateInput(value)">
+                Total:      <input type="text" name="total" id="total">
+                Moms udgør: <input type="text" name="moms" id="moms">
+            </div>
+            <div class="priser slim-width">
+                
+            </div>
+        </div>
+        <input type="submit">
+    </form>
+</div>
+
+<script src="{{ url_for('static', filename='script/script.js') }}"></script>
+{% endblock%}

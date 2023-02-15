@@ -1,0 +1,11 @@
+{% block head %}
+<title>Formularen</title>
+{% endblock%}
+{% block body%}
+<h2>Mit navn er: {{ info['navn'] }}</h2>
+
+<div class="container mt-5">
+    <a href="{{ url_for('logout') }}" class="btn btn-danger" role="button" aria-disabled="true">Logout</a>
+</div>
+
+{% endblock %}
