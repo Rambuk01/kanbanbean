@@ -1,4 +1,4 @@
 kanbanbean
 A kanban board on AWS elastic beanstalk
 
-Code pipeline from git to aws
+Code pipeline from git to awssta

@@ -1,9 +1,22 @@
-from flask import Flask
+from flask import Flask, render_template, url_for
 
 # print a nice greeting.
 def say_hello(username = "World"):
     return '<p>Hello %s!</p>\n' % username
 
+
+
+# EB looks for an 'application' callable by default.
+application = Flask(__name__)
+app = application
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+
+
+"""
 # some bits of text for the page.
 header_text = '''
     <html>\n<head> <title>KanbanBean</title> </head>\n<body>'''
@@ -14,8 +27,6 @@ instructions = '''
 home_link = '<p><a href="/">Back</a></p>\n'
 footer_text = '</body>\n</html>'
 
-# EB looks for an 'application' callable by default.
-application = Flask(__name__)
 
 # add a rule for the index page.
 application.add_url_rule('/', 'index', (lambda: header_text +
@@ -25,7 +36,7 @@ application.add_url_rule('/', 'index', (lambda: header_text +
 # URL.
 application.add_url_rule('/<username>', 'hello', (lambda username:
     header_text + say_hello(username) + home_link + footer_text))
-
+"""
 # run the app.
 if __name__ == "__main__":
     # Setting debug to True enables debug output. This line should be
