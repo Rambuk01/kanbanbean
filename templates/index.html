@@ -1,160 +1,26 @@
 {% extends 'base.html' %}
 {% block head %}
-<title>Formularen</title>
+<title>JobBean</title>
 {% endblock%}
 {% block body%}
 
-<div class="container mt-5">
-</div>
-<div class="container border mt-3 p-4">
-    <form class="" action="ordre.html" method="POST">
-        <div class="form-group">
-            <label for="navn">Navn</label>
-            <input type="text" class="form-control" id="navn"  placeholder="Navn" name="navn">
-        </div>
-        <div class="form-group">
-            <label for="adresse">Adresse</label>
-            <input type="text" class="form-control" id="adresse"  placeholder="Adresse" name="adresse">
-        </div>
-        <div class="form-group">
-            <label for="By">By</label>
-            <input type="text" class="form-control" id="By"  placeholder="By" name="by">
-        </div>
-        <div class="form-group">
-            <label for="postnummer">Postnummer</label>
-            <input type="text" class="form-control" id="postnummer"  placeholder="Postnummer" name="postnummer">
-        </div>
-        <div class="row">
-            <div class="form-group col-md-6">
-                <label for="telefon">Telefon</label>
-                <input type="text" class="form-control" id="telefon" aria-describedby="emailHelp" placeholder="Telefon" name="telefon">
-            </div>
-            <div class="form-group col-md-6">
-                <label for="email">Email address</label>
-                <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" name="email">
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="form-group mt-3 mb-3 col-3">
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="email_bekraeft" name="email_bekraeft" checked>
-                    <label class="form-check-label" for="email_bekraeft">
-                    Send bekræftelses-mail til kunde
-                    </label>
-                </div>
-            </div>
-            <div class="form-group mt-3 mb-3 col-3">
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="bekraeft_transport" name="bekraeft_transport" value="yes" onchange="transportInput(value)">
-                    <label class="form-check-label" for="bekraeft_transport">
-                    Udbringning
-                    </label>
-                </div>
-            </div>
-        </div>
+<header class="banner"><h1>JobBean</h1></header>
+<form action="{{ url_for('index') }}" method="POST">
+  <label>Search</label>
+   <input type="number" name="hr">
+   <input type="submit" name="next" value="Next">
+</form>
 
-        <div class="row mt-4">
-            <div class="form-group col-md-3">
-                <label for="tid">Tid</label>
-                <input type="text" class="form-control" id="tid"  placeholder="Tid" name="tid">
-            </div>
-            <div class="form-group col-md-3">
-                <label for="dato">Dato</label>
-                <input type="date" class="form-control" id="dato"  placeholder="Dato" name="dato">
-            </div>
-            <div class="form-group col-md-3">
-                <label for="voksne">Voksne</label>
-                <input type="number" class="form-control" id="voksne" name="voksne" value="0" onchange="updateInput(value)">
-            </div>
-            <div class="form-group col-md-3">
-                <label for="børn">Børn</label>
-                <input type="number" class="form-control" id="børn" name="børn" value="0" onchange="updateInput(value)">
-            </div>
-        </div>
-        <div class="row">
-            <div class="form-group col-md-3">
-                <label for="forret">Forret</label>
-                <textarea class="form-control" id="forret" name="forret" rows="3"></textarea>
-            </div>
-            <div class="form-group col-md-3">
-                <label for="hovedret">Hovedret</label>
-                <textarea class="form-control" id="hovedret" name="hovedret" rows="3"></textarea>
-            </div>
-            <div class="form-group col-md-3">
-                <label for="desert">Desert</label>
-                <textarea class="form-control" id="desert" name="desert" rows="3"></textarea>
-            </div>
-            <div class="form-group col-md-3">
-                <label for="noter">Noter</label>
-                <textarea class="form-control" id="noter" name="noter" rows="3"></textarea>
-            </div>
-        </div>
-        <div class="row pb-4 mt-3 bg-warning rounded-3">
-            <div class="form-group col-md-3">
-                <label class="" for="transport">Udbringningspris</label>
-                <input class="form-control" type="text" id="transport" name="transport" value="0" onchange="updateInput(value)">
-            </div>
-            <div class="form-group col-md-3">
-                <label for="enhedspris">Enhedspris</label>
-                <input class="form-control" type="text" name="enhedspris" id="enhedspris" value="0" onchange="updateInput(value)">
-            </div>
-            <div class="form-group col-md-3">
-                <label for="total">Total Pris</label>
-                <input class="form-control" type="text" name="total" id="total">            
-            </div>
-            <div class="form-group col-md-3">
-                <label for="moms">Moms udgør</label>
-                <input class="form-control" type="text" name="moms" id="moms">            
-            </div>
-        </div>
-        <button type="submit" class="btn btn-primary mt-3">Send</button>
-        
-    </form>
-    <!--
-    <form class="mt-5" action="ordre.html" method="POST">
-        <div class="">
-            <div class="">
-                Navn:    <input type="text" name="navn" required>
-                Adresse:    <input type="text" name="adresse">
-                By:         <input type="text" name="by">
-                Postnummer: <input type="text" name="postnummer">
-                Telefon:    <input type="text" name="telefon" required>
-                E-mail:     <input type="text" name="email">
-            </div>
-            <div class="">
-                Tid:        <input type="text" name="tid" required>
-                Voksne:     <input type="number" id="voksne" name="voksne" value="0" onchange="updateInput(value)">
-                Børn:       <input type="number" id="børn" name="børn" value="0" onchange="updateInput(value)">
-                <input style="margin-top: 33px;" type="checkbox" id="email_bekraeft" name="email_bekraeft" value="yes"> <label for="email_bekraeft">Email<br></label><!-- email bestilligns bekræftigelse til kunde -- checkbox
-                <input style="margin-top: 52px;" type="checkbox" id="bekraeft_transport" name="bekraeft_transport" value="yes" onchange="transportInput(value)"> <label for="bekraeft_transport">Udbringning</label>
-            </div>
-            <div class="">
-                Dato:       <input type="date" name="dato" required>
-            </div>
-        </div>
-        <div class=""> 
-            <div class="">
-                Forret:       <textarea name="forret" rows="4"></textarea><br>
-                Hovedret:     <textarea name="hovedret" rows="5"></textarea><br>
-                Desert:       <textarea name="desert" rows="3"></textarea><br>
-                Noter:        <textarea name="noter" rows="2"></textarea>
-            </div>
-            <div class="">
-                Transport:  <input type="text" id="transport" name="transport" value="0" onchange="updateInput(value)">
-                Enhedspris: <input type="text" name="enhedspris" id="enhedspris" value="0" onchange="updateInput(value)">
-                Total:      <input type="text" name="total" id="total">
-                Moms udgør: <input type="text" name="moms" id="moms">
-            </div>
-            <div class="">
-                
-            </div>
-        </div>
-        <input type="submit">
-    </form>
-    -->
-
+<div class="data-table">
+    <h2>Results</h2>
+    {% if divdata %}
+    {% for item in divdata %}
+    <div>
+       {{item}}
+    </div>
+    {% endfor %}
+    {% endif %}
 </div>
 
-<!--<script src="{{ url_for('static', filename='script/script.js') }}"></script>-->
+<script src="{{ url_for('static', filename='script/script.js') }}"></script>
 {% endblock%}

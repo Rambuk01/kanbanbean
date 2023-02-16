@@ -1,0 +1,2099 @@
+{
+  "Expression": {
+    "ShowNearbyCriteria": true,
+    "Offset": 0,
+    "Count": 20,
+    "SearchString": "Software Ingeniør",
+    "SortValue": "BestMatch",
+    "Id": [],
+    "EarliestPublicationDate": "0001-01-01T00:00:00",
+    "HotJob": false,
+    "Abroad": false,
+    "NearBy": null,
+    "ExternalJob": null,
+    "WorkPlaceNotStatic": null,
+    "WorkHourMin": null,
+    "WorkHourMax": null,
+    "OnlyGeoPoints": false,
+    "Facets": {
+      "Region": [],
+      "Country": [],
+      "Municipality": [],
+      "PostalCode": [],
+      "HiringOrgName": [],
+      "OccupationAreas": [],
+      "OccupationGroups": [],
+      "Occupations": [],
+      "EmploymentType": [],
+      "WorkHours": [],
+      "WorkHourPartTime": [],
+      "JobAnnouncementType": [],
+      "WorkPlaceNotStatic": []
+    },
+    "LocatedIn": null,
+    "LocationZip": null,
+    "Location": null,
+    "SearchInGeoDistance": 0,
+    "IsWorkInDenmarkJob": false
+  },
+  "Facets": {
+    "Region": [
+      {
+        "Id": 0,
+        "Value": "Syddanmark",
+        "Count": 49
+      },
+      {
+        "Id": 0,
+        "Value": "Hovedstaden og Bornholm",
+        "Count": 37
+      },
+      {
+        "Id": 0,
+        "Value": "Midtjylland",
+        "Count": 28
+      },
+      {
+        "Id": 0,
+        "Value": "Nordjylland",
+        "Count": 16
+      },
+      {
+        "Id": 0,
+        "Value": "Øvrige Sjælland",
+        "Count": 4
+      }
+    ],
+    "Country": [
+      {
+        "Id": 0,
+        "Value": "Danmark",
+        "Count": 136
+      },
+      {
+        "Id": 0,
+        "Value": "Schweiz",
+        "Count": 3
+      }
+    ],
+    "Municipality": [
+      {
+        "Id": 0,
+        "Value": "København",
+        "Count": 20
+      },
+      {
+        "Id": 0,
+        "Value": "Odense",
+        "Count": 18
+      },
+      {
+        "Id": 0,
+        "Value": "Skanderborg",
+        "Count": 13
+      },
+      {
+        "Id": 0,
+        "Value": "Vejle",
+        "Count": 9
+      },
+      {
+        "Id": 0,
+        "Value": "Esbjerg",
+        "Count": 8
+      },
+      {
+        "Id": 0,
+        "Value": "Aalborg",
+        "Count": 7
+      },
+      {
+        "Id": 0,
+        "Value": "Aarhus",
+        "Count": 5
+      },
+      {
+        "Id": 0,
+        "Value": "Sønderborg",
+        "Count": 5
+      },
+      {
+        "Id": 0,
+        "Value": "Vesthimmerlands",
+        "Count": 4
+      },
+      {
+        "Id": 0,
+        "Value": "Rudersdal",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Kolding",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Mariagerfjord",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Ringkøbing-Skjern",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Herning",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Thisted",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Skive",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Greve",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Frederiksberg",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Ballerup",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Gladsaxe",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Gentofte",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Svendborg",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Lolland",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Ikast-Brande",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Sorø",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Høje-Taastrup",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Hvidovre",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Albertslund",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Viborg",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Aabenraa",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Fredericia",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Glostrup",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Assens",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Billund",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Hedensted",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Middelfart",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Silkeborg",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Herlev",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Hillerød",
+        "Count": 1
+      }
+    ],
+    "PostalCode": [
+      {
+        "Id": 0,
+        "Value": "8660",
+        "Count": 13
+      },
+      {
+        "Id": 0,
+        "Value": "7100",
+        "Count": 8
+      },
+      {
+        "Id": 0,
+        "Value": "5220",
+        "Count": 8
+      },
+      {
+        "Id": 0,
+        "Value": "9000",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "6700",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "1050",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "6430",
+        "Count": 5
+      },
+      {
+        "Id": 0,
+        "Value": "5250",
+        "Count": 4
+      },
+      {
+        "Id": 0,
+        "Value": "9600",
+        "Count": 4
+      },
+      {
+        "Id": 0,
+        "Value": "2300",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "2750",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "6000",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "2100",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "5000",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "5210",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "7800",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "7700",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "8210",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "9560",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "8800",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "2690",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "2900",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "2000",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "7000",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "6740",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "2600",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2500",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "8200",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "8000",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2450",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "7200",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "7120",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "7430",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "7400",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2630",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "9500",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "9400",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "7470",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2840",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2730",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "3460",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "8520",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2650",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "8723",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "1000",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "4970",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "5683",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "5500",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "4293",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2880",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2860",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "3400",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2950",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "5700",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "6971",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "6920",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "2400",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "1577",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "1160",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "6200",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "1059",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "5270",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "1072",
+        "Count": 1
+      }
+    ],
+    "HiringOrgName": [],
+    "OccupationAreas": [
+      {
+        "Id": 0,
+        "Value": "It og teleteknik",
+        "Count": 62
+      },
+      {
+        "Id": 0,
+        "Value": "Akademisk arbejde",
+        "Count": 40
+      },
+      {
+        "Id": 0,
+        "Value": "Ledelse",
+        "Count": 15
+      },
+      {
+        "Id": 0,
+        "Value": "Bygge og anlæg",
+        "Count": 9
+      },
+      {
+        "Id": 0,
+        "Value": "Jern, metal og auto",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "Salg, indkøb og markedsføring",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Industriel produktion",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Kontor, administration, regnskab og finans",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Design, formgivning og grafisk arbejde",
+        "Count": 1
+      }
+    ],
+    "OccupationGroups": [
+      {
+        "Id": 0,
+        "Value": "Systemudvikling, programmering og design",
+        "Count": 55
+      },
+      {
+        "Id": 0,
+        "Value": "Ingeniørarbejde",
+        "Count": 36
+      },
+      {
+        "Id": 0,
+        "Value": "Øvrig ledelse",
+        "Count": 10
+      },
+      {
+        "Id": 0,
+        "Value": "Elektrikerarbejde",
+        "Count": 8
+      },
+      {
+        "Id": 0,
+        "Value": "Mekanikerarbejde, øvrigt",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "Tværgående it-arbejde",
+        "Count": 4
+      },
+      {
+        "Id": 0,
+        "Value": "Salg, indkøb og markedsføring",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Test, kvalitet og sikkerhed",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Naturvidenskabeligt arbejde",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Salg og indkøb",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Metode- og planlægningsarbejde",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Marketing",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Drift, support og netværk",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Tværgående arbejde, industriel produktion",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Tværgående arbejde, bygge og anlæg",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Sundhedsområdet",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Arkitektarbejde, design og planlægning ",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Administrativt arbejde",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Administration, strategi og personale",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Drift og produktion",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Design og formgivning",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Bank og finans",
+        "Count": 1
+      }
+    ],
+    "Occupations": [
+      {
+        "Id": 0,
+        "Value": "Programmør og systemudvikler",
+        "Count": 24
+      },
+      {
+        "Id": 0,
+        "Value": "IT-ingeniør",
+        "Count": 23
+      },
+      {
+        "Id": 0,
+        "Value": "Civilingeniør",
+        "Count": 12
+      },
+      {
+        "Id": 0,
+        "Value": "Elektriker",
+        "Count": 8
+      },
+      {
+        "Id": 0,
+        "Value": "Automationsingeniør",
+        "Count": 7
+      },
+      {
+        "Id": 0,
+        "Value": "Projektleder",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "Elektronikingeniør",
+        "Count": 6
+      },
+      {
+        "Id": 0,
+        "Value": "Maskiningeniør",
+        "Count": 5
+      },
+      {
+        "Id": 0,
+        "Value": "IT-konsulent",
+        "Count": 4
+      },
+      {
+        "Id": 0,
+        "Value": "Softwareudvikler, backend",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "IT-arkitekt",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Elektronikfagtekniker",
+        "Count": 3
+      },
+      {
+        "Id": 0,
+        "Value": "Maskinmester",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Softwareudvikler, frontend",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "IT-kvalitetsmedarbejder",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Kemiker",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Automatiktekniker",
+        "Count": 2
+      },
+      {
+        "Id": 0,
+        "Value": "Projektkoordinator",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Byggeleder",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Projektmedarbejder",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Produktchef",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Produktionsteknolog",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Assistent til salgssupport",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Civilingeniør, IT",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Teamleder, sundhed",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Teknisk designer",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Salgschef",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Servicetekniker",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Bygningsingeniør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Miljøingeniør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "IT-supporter",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Kontorleder",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Kvalitetschef",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Elektroingeniør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Forretningsudvikler",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "IT-projektleder",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Maskinkonstruktør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Arkitekt",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Medicoingeniør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Kvalitetsingeniør",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Marketingmedarbejder",
+        "Count": 1
+      },
+      {
+        "Id": 0,
+        "Value": "Account manager",
+        "Count": 1
+      }
+    ],
+    "EmploymentType": [
+      {
+        "Id": 0,
+        "Value": "Fastansættelse",
+        "Count": 130
+      },
+      {
+        "Id": 0,
+        "Value": "Tidsbegrænset ansættelse",
+        "Count": 9
+      }
+    ],
+    "WorkHours": [
+      {
+        "Id": 0,
+        "Value": "Fuldtid",
+        "Count": 137
+      },
+      {
+        "Id": 0,
+        "Value": "Deltid",
+        "Count": 2
+      }
+    ],
+    "WorkHourPartTime": [
+      {
+        "Id": 0,
+        "Value": "Deltid",
+        "Count": 0
+      }
+    ],
+    "JobAnnouncementType": [
+      {
+        "Id": 0,
+        "Value": "Almindelige vilkår",
+        "Count": 139
+      }
+    ],
+    "WorkPlaceNotStatic": [
+      {
+        "Id": 0,
+        "Value": "false",
+        "Count": 137
+      },
+      {
+        "Id": 0,
+        "Value": "true",
+        "Count": 2
+      }
+    ]
+  },
+  "JobPositionPostings": [
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.9739999771118164,
+      "Title": "R&D SOFTWARE INGENIØR - NYUDVIKLING - Til højteknologisk fødevare-procesudstyr",
+      "JobHeadline": "R&D SOFTWARE INGENIØR - NYUDVIKLING - Til højteknologisk fødevare-procesudstyr",
+      "Presentation": "...TypografiSgeprofil-OverskriftVenstre19cmHjre197cm\">OPGAVEN\n\n\nSom R&D Software Ingeniør skal man tage aktiv del i hele processen fra brainstorming, kravspecifikation, design og...",
+      "HiringOrgName": "TARGET Headhunting ApS",
+      "WorkPlaceAddress": "Datavej 3",
+      "WorkPlacePostalCode": "5220",
+      "WorkPlaceCity": "Odense SØ",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-01-17T00:00:00",
+      "LastDateApplication": "2023-03-14T00:00:00",
+      "FormattedLastDateApplication": "14. marts 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5755573",
+      "Region": "Syddanmark",
+      "Municipality": "Odense",
+      "Country": "Danmark",
+      "PostalCode": "5220",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "Akademisk arbejde",
+      "OccupationGroup": "Ingeniørarbejde",
+      "Occupation": "Automationsingeniør",
+      "Location": {
+        "Latitude": 55.3591,
+        "Longitude": 10.4567
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 120724,
+      "OrganisationId": "107045",
+      "HiringOrgCVR": 31934990,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5755573",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755573",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755573",
+      "HasLocationValues": true,
+      "ID": "5755573",
+      "Latitude": 55.3591,
+      "Longitude": 10.4567
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.9527000188827515,
+      "Title": "Automation engineer",
+      "JobHeadline": "Automation engineer",
+      "Presentation": "...er bedst i en given situation. Vi forestiller os, at du har en uddannelse som automationsingeniør, softwareingeniør eller lignende. Vi ser gerne, at du har erfaring inden for maskinbyggerbranchen og...",
+      "HiringOrgName": "RANDSTAD A/S",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "7100",
+      "WorkPlaceCity": "Vejle",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-01-17T00:00:00",
+      "LastDateApplication": "2023-02-28T00:00:00",
+      "FormattedLastDateApplication": "28. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5755404",
+      "Region": "Syddanmark",
+      "Municipality": "Vejle",
+      "Country": "Danmark",
+      "PostalCode": "7100",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "Akademisk arbejde",
+      "OccupationGroup": "Ingeniørarbejde",
+      "Occupation": "Automationsingeniør",
+      "Location": {
+        "Latitude": 55.6905,
+        "Longitude": 9.5066
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": "Dag"
+      },
+      "WorkplaceID": 120191,
+      "OrganisationId": "106608",
+      "HiringOrgCVR": 25050541,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5755404",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755404",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755404",
+      "HasLocationValues": true,
+      "ID": "5755404",
+      "Latitude": 55.6905,
+      "Longitude": 9.5066
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.948199987411499,
+      "Title": "Senior C# Udvikler søges til KiAP, Odense",
+      "JobHeadline": "Senior C# Udvikler søges til KiAP, Odense",
+      "Presentation": "...p>\n \nUddannelsesmæssige kvalifikationer:\n\nBachelor i software development, ingeniør, cand.scient i datalogi, cand.IT., civilingeniør eller lign.\nDatanom...",
+      "HiringOrgName": "Krüger Search",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "5000",
+      "WorkPlaceCity": "Odense C",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-02-13T00:00:00",
+      "LastDateApplication": "2023-02-16T00:00:00",
+      "FormattedLastDateApplication": "16. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5770234",
+      "Region": "Syddanmark",
+      "Municipality": "Odense",
+      "Country": "Danmark",
+      "PostalCode": "5000",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Programmør og systemudvikler",
+      "Location": {
+        "Latitude": 55.403,
+        "Longitude": 10.3917
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 121368,
+      "OrganisationId": "107565",
+      "HiringOrgCVR": 32012566,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5770234",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5770234",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5770234",
+      "HasLocationValues": true,
+      "ID": "5770234",
+      "Latitude": 55.403,
+      "Longitude": 10.3917
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.946399986743927,
+      "Title": "Junior softwareudvikler til spændende startup",
+      "JobHeadline": "Junior softwareudvikler til spændende startup",
+      "Presentation": "...strong>\nDu har en kandidatgrad inden for softwareudvikling (f.eks. datalogi eller softwareingeniør) og har gerne lidt erfaring som studenterudvikler.• Du har erfaring med objekt...",
+      "HiringOrgName": "EasySearch",
+      "WorkPlaceAddress": "Vandtårnsvej 62 A",
+      "WorkPlacePostalCode": "2860",
+      "WorkPlaceCity": "Søborg",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-02-04T00:00:00",
+      "LastDateApplication": "2023-04-01T00:00:00",
+      "FormattedLastDateApplication": "1. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5769469",
+      "Region": "Hovedstaden og Bornholm",
+      "Municipality": "Gladsaxe",
+      "Country": "Danmark",
+      "PostalCode": "2860",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Softwareudvikler, backend",
+      "Location": {
+        "Latitude": 55.7367,
+        "Longitude": 12.4901
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 81304,
+      "OrganisationId": "75579",
+      "HiringOrgCVR": 21314080,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5769469",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5769469",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5769469",
+      "HasLocationValues": true,
+      "ID": "5769469",
+      "Latitude": 55.7367,
+      "Longitude": 12.4901
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.946399986743927,
+      "Title": "Senior software engineer",
+      "JobHeadline": "Senior software engineer",
+      "Presentation": "...opgaver/projekter.Uddannelsesmæssigt forestiller vi os, at du har en baggrund som datalog, softwareingeniør eller lignende og har erhvervet dig kompetencer som teknisk lead.Du har sikkert...",
+      "HiringOrgName": "RANDSTAD A/S",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "7100",
+      "WorkPlaceCity": "Vejle",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-01-17T00:00:00",
+      "LastDateApplication": "2023-02-28T00:00:00",
+      "FormattedLastDateApplication": "28. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5755400",
+      "Region": "Syddanmark",
+      "Municipality": "Vejle",
+      "Country": "Danmark",
+      "PostalCode": "7100",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Softwareudvikler, frontend",
+      "Location": {
+        "Latitude": 55.6905,
+        "Longitude": 9.5066
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": "Dag"
+      },
+      "WorkplaceID": 120191,
+      "OrganisationId": "106608",
+      "HiringOrgCVR": 25050541,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5755400",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755400",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755400",
+      "HasLocationValues": true,
+      "ID": "5755400",
+      "Latitude": 55.6905,
+      "Longitude": 9.5066
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.946399986743927,
+      "Title": "software engineer",
+      "JobHeadline": "software engineer",
+      "Presentation": "...Vi ser gerne, at du har en god faglig ballast med en uddannelsesmæssig baggrund som softwareingeniør eller lignende og har et par års erfaring med softwareudvikling. Af natur er du...",
+      "HiringOrgName": "RANDSTAD A/S",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "7100",
+      "WorkPlaceCity": "Vejle",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-01-17T00:00:00",
+      "LastDateApplication": "2023-02-28T00:00:00",
+      "FormattedLastDateApplication": "28. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5755378",
+      "Region": "Syddanmark",
+      "Municipality": "Vejle",
+      "Country": "Danmark",
+      "PostalCode": "7100",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Softwareudvikler, frontend",
+      "Location": {
+        "Latitude": 55.6905,
+        "Longitude": 9.5066
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": "Dag"
+      },
+      "WorkplaceID": 120191,
+      "OrganisationId": "106608",
+      "HiringOrgCVR": 25050541,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5755378",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755378",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5755378",
+      "HasLocationValues": true,
+      "ID": "5755378",
+      "Latitude": 55.6905,
+      "Longitude": 9.5066
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.946399986743927,
+      "Title": "Softwareudvikler",
+      "JobHeadline": "Softwareudvikler",
+      "Presentation": "...Derfor kunne vi forestille os, at du:\n\nEr uddannet datamatiker, softwareingeniør, datalog eller tilsvarende (har du ikke følgende uddannelser, men har naturlig flair for...",
+      "HiringOrgName": "Shipmondo ApS",
+      "WorkPlaceAddress": "Hvilehøjvej 25",
+      "WorkPlacePostalCode": "5220",
+      "WorkPlaceCity": "Odense SØ",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-01-13T00:00:00",
+      "LastDateApplication": "2023-02-20T00:00:00",
+      "FormattedLastDateApplication": "20. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5753235",
+      "Region": "Syddanmark",
+      "Municipality": "Odense",
+      "Country": "Danmark",
+      "PostalCode": "5220",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Softwareudvikler, backend",
+      "Location": {
+        "Latitude": 55.3565,
+        "Longitude": 10.4554
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": "Dag"
+      },
+      "WorkplaceID": 118343,
+      "OrganisationId": "105207",
+      "HiringOrgCVR": 32474160,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5753235",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5753235",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5753235",
+      "HasLocationValues": true,
+      "ID": "5753235",
+      "Latitude": 55.3565,
+      "Longitude": 10.4554
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.9417999982833862,
+      "Title": "Technical Writer",
+      "JobHeadline": "Technical Writer",
+      "Presentation": "...komme til at arbejde tæt sammen med engineeringafdelingen, som består af maskiningeniører, el- og softwareingeniører. \n\nManualerne skrives på engelsk, derfor forventes det, at du har let ved...",
+      "HiringOrgName": "Pay-Back specialist rekruttering ApS",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "6740",
+      "WorkPlaceCity": "Bramming",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-08T00:00:00",
+      "LastDateApplication": "2023-03-08T00:00:00",
+      "FormattedLastDateApplication": "8. marts 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5771887",
+      "Region": "Syddanmark",
+      "Municipality": "Esbjerg",
+      "Country": "Danmark",
+      "PostalCode": "6740",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "Design, formgivning og grafisk arbejde",
+      "OccupationGroup": "Design og formgivning",
+      "Occupation": "Teknisk designer",
+      "Location": {
+        "Latitude": 55.4607,
+        "Longitude": 8.7017
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 117356,
+      "OrganisationId": "104483",
+      "HiringOrgCVR": 36401370,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5771887",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5771887",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5771887",
+      "HasLocationValues": true,
+      "ID": "5771887",
+      "Latitude": 55.4607,
+      "Longitude": 8.7017
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7598000168800354,
+      "Title": "Ingeniørpraktik inden for Embedded Software udvikling/ Embedded Software Internship",
+      "JobHeadline": "Ingeniørpraktik inden for Embedded Software udvikling/ Embedded Software Internship",
+      "Presentation": "...Vi søger dig, som\n\ner i gang med en relevant ingeniøruddannelse og brænder for embedded software, C/C++, reviewet og versionsstyret samt unittestet.\nser muligheder frem...",
+      "HiringOrgName": "LINAK A/S",
+      "WorkPlaceAddress": "Smedevænget 8",
+      "WorkPlacePostalCode": "6430",
+      "WorkPlaceCity": "Nordborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-14T00:00:00",
+      "LastDateApplication": "2023-04-11T00:00:00",
+      "FormattedLastDateApplication": "11. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5775538",
+      "Region": "Syddanmark",
+      "Municipality": "Sønderborg",
+      "Country": "Danmark",
+      "PostalCode": "6430",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Programmør og systemudvikler",
+      "Location": {
+        "Latitude": 54.9948,
+        "Longitude": 9.857
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 3152,
+      "OrganisationId": "4167",
+      "HiringOrgCVR": 66365328,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5775538",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775538",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775538",
+      "HasLocationValues": true,
+      "ID": "5775538",
+      "Latitude": 54.9948,
+      "Longitude": 9.857
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7232000231742859,
+      "Title": "PLC programmør\ntil Kjærgaard A/S i Løsning",
+      "JobHeadline": "PLC programmør\ntil Kjærgaard A/S i Løsning",
+      "Presentation": "...at du har en relevant teknisk uddannelse evt. ingeniør, automationsteknolog/tekniker og nogle års praktisk erfaring med programmering af PLC software og idriftsættelse af procesanlæg og maskiner....",
+      "HiringOrgName": "Kjærgaard A/S",
+      "WorkPlaceAddress": "Helge Nielsens Alle 10",
+      "WorkPlacePostalCode": "8723",
+      "WorkPlaceCity": "Løsning",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-01-20T00:00:00",
+      "LastDateApplication": "2023-03-17T00:00:00",
+      "FormattedLastDateApplication": "17. marts 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5674106",
+      "Region": "Midtjylland",
+      "Municipality": "Hedensted",
+      "Country": "Danmark",
+      "PostalCode": "8723",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Programmør og systemudvikler",
+      "Location": {
+        "Latitude": 55.8055,
+        "Longitude": 9.6799
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 6139,
+      "OrganisationId": "7410",
+      "HiringOrgCVR": 54974817,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5674106",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5674106",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5674106",
+      "HasLocationValues": true,
+      "ID": "5674106",
+      "Latitude": 55.8055,
+      "Longitude": 9.6799
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7225000262260437,
+      "Title": "Dygtig Full-stack Udvikler søges.",
+      "JobHeadline": "Dygtig Full-stack Udvikler søges.",
+      "Presentation": "...ul>\n \nUddannelsesmæssige kvalifikationer:\n\nBachelor i softwareudvikling, ingeniør, cand.scient i datalogi, cand.IT. eller lignende.\nDatatekniker med...",
+      "HiringOrgName": "Krüger Search",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "2900",
+      "WorkPlaceCity": "Hellerup",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-15T00:00:00",
+      "LastDateApplication": "2023-02-19T00:00:00",
+      "FormattedLastDateApplication": "19. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5776412",
+      "Region": "Hovedstaden og Bornholm",
+      "Municipality": "Gentofte",
+      "Country": "Danmark",
+      "PostalCode": "2900",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "Programmør og systemudvikler",
+      "Location": {
+        "Latitude": 55.7344,
+        "Longitude": 12.5695
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 121368,
+      "OrganisationId": "107565",
+      "HiringOrgCVR": 32012566,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5776412",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5776412",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5776412",
+      "HasLocationValues": true,
+      "ID": "5776412",
+      "Latitude": 55.7344,
+      "Longitude": 12.5695
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7202000021934509,
+      "Title": "Dygtig IT-Arkitekt søges.",
+      "JobHeadline": "Dygtig IT-Arkitekt søges.",
+      "Presentation": "...li>\n\nUddannelsesmæssige kvalifikationer:\n\nBachelor i softwareudvikling, ingeniør, cand.scient i datalogi, cand.IT. eller lignende.\nDatatekniker...",
+      "HiringOrgName": "Krüger Search",
+      "WorkPlaceAddress": "",
+      "WorkPlacePostalCode": "2900",
+      "WorkPlaceCity": "Hellerup",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-16T00:00:00",
+      "LastDateApplication": "2023-02-19T00:00:00",
+      "FormattedLastDateApplication": "19. februar 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5776423",
+      "Region": "Hovedstaden og Bornholm",
+      "Municipality": "Gentofte",
+      "Country": "Danmark",
+      "PostalCode": "2900",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-arkitekt",
+      "Location": {
+        "Latitude": 55.7344,
+        "Longitude": 12.5695
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 121368,
+      "OrganisationId": "107565",
+      "HiringOrgCVR": 32012566,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5776423",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5776423",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5776423",
+      "HasLocationValues": true,
+      "ID": "5776423",
+      "Latitude": 55.7344,
+      "Longitude": 12.5695
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7143999934196472,
+      "Title": "Software Portfolio Manager, Stilling (between Aarhus and Skanderborg), Denmark (123202)",
+      "JobHeadline": "Software Portfolio Manager, Stilling (between Aarhus and Skanderborg), Denmark (123202)",
+      "Presentation": "Are you ready to take on a prominent role by getting the full ownership of our engineering and design software tools application portfolio? Do you have solid...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-14T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5775445",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5775445",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775445",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775445",
+      "HasLocationValues": true,
+      "ID": "5775445",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7143999934196472,
+      "Title": "PCB Test Software Developer, Stilling near Aarhus, Denmark (131654)",
+      "JobHeadline": "PCB Test Software Developer, Stilling near Aarhus, Denmark (131654)",
+      "Presentation": "Would you like to work in an innovative and automated high-technological production? Would you like to work with software, electronics and automated tests for our...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-13T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5774958",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5774958",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774958",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774958",
+      "HasLocationValues": true,
+      "ID": "5774958",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.7142999768257141,
+      "Title": "Team Lead for Software Development team, Stilling (between Aarhus and Skanderborg), Denmark (134494)",
+      "JobHeadline": "Team Lead for Software Development team, Stilling (between Aarhus and Skanderborg), Denmark (134494)",
+      "Presentation": "Can you lead a professional software development team? Do you want to be part of developing...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-14T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5775502",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5775502",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775502",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775502",
+      "HasLocationValues": true,
+      "ID": "5775502",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.6970999836921692,
+      "Title": "Agile Coach, Stilling (between Aarhus and Skanderborg), Denmark (125974)",
+      "JobHeadline": "Agile Coach, Stilling (between Aarhus and Skanderborg), Denmark (125974)",
+      "Presentation": "Are you motivated by empowering and coaching a software organization to generate customer centric value...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-13T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5774390",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5774390",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774390",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774390",
+      "HasLocationValues": true,
+      "ID": "5774390",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.6970999836921692,
+      "Title": "Solution Architect, Stilling (between Aarhus and Skanderborg), Denmark (128483)",
+      "JobHeadline": "Solution Architect, Stilling (between Aarhus and Skanderborg), Denmark (128483)",
+      "Presentation": "Are you ready to take the next step in your software development career? Are you motivated by working with...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-14T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5775456",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5775456",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775456",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775456",
+      "HasLocationValues": true,
+      "ID": "5775456",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.6970999836921692,
+      "Title": "Project Lead, Stilling (between Aarhus and Skanderborg), Denmark (126238)",
+      "JobHeadline": "Project Lead, Stilling (between Aarhus and Skanderborg), Denmark (126238)",
+      "Presentation": "Are you an experienced Project Lead, who can handle heavily technical teams and are you able...three teams consisting of Developers, Testers, Software Architects, Project Leads and SCRUM Masters...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-14T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5775258",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5775258",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775258",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5775258",
+      "HasLocationValues": true,
+      "ID": "5775258",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.6970999836921692,
+      "Title": "Manager for Application Support, Stilling (between Aarhus and Skanderborg), Denmark (132743)",
+      "JobHeadline": "Manager for Application Support, Stilling (between Aarhus and Skanderborg), Denmark (132743)",
+      "Presentation": "Are you passionate about a job where you will have managerial as well as technical...and bridge transversal tasks to Kamstrup’s Technology Software Division? Do you want to set the new...",
+      "HiringOrgName": "KAMSTRUP INTERNATIONAL A/S",
+      "WorkPlaceAddress": "Industrivej 28",
+      "WorkPlacePostalCode": "8660",
+      "WorkPlaceCity": "Skanderborg",
+      "WorkPlaceOtherAddress": false,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": true,
+      "PostingCreated": "2023-02-13T00:00:00",
+      "LastDateApplication": "2023-04-10T00:00:00",
+      "FormattedLastDateApplication": "10. april 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5774907",
+      "Region": "Midtjylland",
+      "Municipality": "Skanderborg",
+      "Country": "Danmark",
+      "PostalCode": "8660",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 56.071,
+        "Longitude": 10.0071
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 0,
+      "OrganisationId": "0",
+      "HiringOrgCVR": 34888736,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5774907",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774907",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5774907",
+      "HasLocationValues": true,
+      "ID": "5774907",
+      "Latitude": 56.071,
+      "Longitude": 10.0071
+    },
+    {
+      "AutomatchType": 0,
+      "Abroad": false,
+      "Weight": 0.6970999836921692,
+      "Title": "Become Firmware Engineer for our exciting client Advanced Energy in Ballerup",
+      "JobHeadline": "Become Firmware Engineer for our exciting client Advanced Energy in Ballerup",
+      "Presentation": "Do you want to be a part of a global leading company in power supply manufacturing? And do you...to join the team in Ballerup.  As firmware/software engineer you will be part of the engineering...",
+      "HiringOrgName": "Adecco",
+      "WorkPlaceAddress": "Energivej 30",
+      "WorkPlacePostalCode": "2750",
+      "WorkPlaceCity": "Ballerup",
+      "WorkPlaceOtherAddress": true,
+      "WorkPlaceAbroad": false,
+      "WorkPlaceNotStatic": false,
+      "UseWorkPlaceAddressForJoblog": false,
+      "PostingCreated": "2023-01-11T00:00:00",
+      "LastDateApplication": "2023-03-08T00:00:00",
+      "FormattedLastDateApplication": "8. marts 2023",
+      "AssignmentStartDate": "0001-01-01T00:00:00",
+      "IsHotjob": false,
+      "IsExternal": false,
+      "Url": "https://job.jobnet.dk/CV/FindWork/Details/5750038",
+      "Region": "Hovedstaden og Bornholm",
+      "Municipality": "Albertslund",
+      "Country": "Danmark",
+      "PostalCode": "2750",
+      "PostalCodeName": null,
+      "JobAnnouncementType": "",
+      "EmploymentType": "",
+      "WorkHours": "Fuldtid",
+      "OccupationArea": "It og teleteknik",
+      "OccupationGroup": "Systemudvikling, programmering og design",
+      "Occupation": "IT-ingeniør",
+      "Location": {
+        "Latitude": 55.7248,
+        "Longitude": 12.3767
+      },
+      "JoblogWorkTime": {
+        "WorkHour": null,
+        "DailyWorkTime": null
+      },
+      "WorkplaceID": 66770,
+      "OrganisationId": "666",
+      "HiringOrgCVR": 12932375,
+      "UserLoggedIn": false,
+      "AnonymousEmployer": false,
+      "ShareUrl": "https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5750038",
+      "DetailsUrl": "https://job.jobnet.dk/CV/FindWork/Details/5750038",
+      "JobLogUrl": "https://job.jobnet.dk/CV/FindWork/Details/5750038",
+      "HasLocationValues": true,
+      "ID": "5750038",
+      "Latitude": 55.7248,
+      "Longitude": 12.3767
+    }
+  ],
+  "TotalResultCount": 139
+}
