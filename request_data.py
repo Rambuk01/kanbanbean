@@ -83,13 +83,14 @@ def get_jobs_municipality(search_key, maxdistance=50, zipcode=6400):
     cookies, headers, json_data = jobnet_search_params(search_key, maxdistance, zipcode)
     job_data = request_data_jobnet(cookies, headers, json_data)
     len(job_data['JobPositionPostings'])
-    data_string_array = [];    
+    city_jobs_dict = {};    
 
     muni = job_data['Facets']['Municipality']
-    
+    total_jobs = 0;
     for by in muni:
-        data_string_array.append(f"I {by['Value']} er der {by['Count']} jobs, der relaterer til det du har søgt")
-    return data_string_array
+        city_jobs_dict[by['Value']] = by['Count']
+        total_jobs += int(by['Count'])
+    return city_jobs_dict, total_jobs
     
 
 # Note: json_data will not be serialized by requests

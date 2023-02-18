@@ -4,21 +4,24 @@
 {% endblock%}
 {% block body%}
 
-<header class="banner"><h1>JobBean</h1></header>
+<header class="banner"><h1>JobBean</h1></header> 
 <form action="{{ url_for('index') }}" method="POST">
   <label>Search</label>
-   <input type="number" name="hr">
-   <input type="submit" name="next" value="Next">
+   <input type="text" name="search_key" placeholder="Jobkategori">
+   <input type="submit" name="Search" value="Next">
 </form>
 
 <div class="data-table">
     <h2>Results</h2>
     {% if divdata %}
-    {% for item in divdata %}
+    {% for city, job in divdata.items() %}
     <div>
-       {{item}}
+       {{city}} er der {{job}} jobs.
     </div>
     {% endfor %}
+    <div id="Total">
+        {{total}}
+    </div>
     {% endif %}
 </div>
 

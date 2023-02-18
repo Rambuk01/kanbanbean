@@ -6,13 +6,15 @@ app = application
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    data = ""
-    data_paragraph = "";
+    city_jobs_dict = {}
+    total = 0;
     if request.method == 'POST':
+        search_key = request.form.get('search_key')
         """Here I will handle the data from the form"""
-        data = get_jobs_municipality("IT underviser")
+        city_jobs_dict, total = get_jobs_municipality(search_key)
+        
         form = request.form
-    return render_template('index.html', divdata = data)
+    return render_template('index.html', divdata = city_jobs_dict, total=total)
 
 
 # run the app.
