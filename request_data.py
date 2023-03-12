@@ -1,7 +1,6 @@
 # a webscraper test area for facebook scraping events
 import requests
 import json
-from bs4 import BeautifulSoup
 
 # funktion, der håndterer cookies, headers og json_data parametre til brug i get_jobs_municipality
 # man kan ændre på søgeordet, postnr hvor jobbet skal være, samt afstand fra postnr.
@@ -83,8 +82,8 @@ def get_jobs_municipality(search_key, maxdistance=50, zipcode=6400):
     cookies, headers, json_data = jobnet_search_params(search_key, maxdistance, zipcode)
     job_data = request_data_jobnet(cookies, headers, json_data)
     len(job_data['JobPositionPostings'])
-    city_jobs_dict = {};    
-
+    city_jobs_dict = {}
+    
     muni = job_data['Facets']['Municipality']
     total_jobs = 0;
     for by in muni:
@@ -97,3 +96,6 @@ def get_jobs_municipality(search_key, maxdistance=50, zipcode=6400):
 # exactly as it was in the original request.
 #data = '{"model":{"Offset":0,"Count":20,"SearchString":"IT","SortValue":"BestMatch","Id":[],"EarliestPublicationDate":null,"HotJob":null,"Abroad":null,"NearBy":"","OnlyGeoPoints":false,"WorkPlaceNotStatic":null,"WorkHourMin":null,"WorkHourMax":null,"Facets":{"Region":null,"Country":null,"Municipality":null,"PostalCode":null,"OccupationAreas":null,"OccupationGroups":null,"Occupations":null,"EmploymentType":null,"WorkHours":null,"WorkHourPartTime":null,"JobAnnouncementType":null,"WorkPlaceNotStatic":null},"LocatedIn":null,"LocationZip":null,"Location":null,"SearchInGeoDistance":0},"url":"/CV/FindWork?SearchString=IT&Offset=0&SortValue=BestMatch"}'
 #response = requests.post('https://job.jobnet.dk/CV/FindWork/Search', cookies=cookies, headers=headers, data=data)
+
+if __name__ == "__main__":
+    print(get_jobs_municipality("lærer"))

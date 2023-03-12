@@ -5,12 +5,14 @@
 {% block body%}
 
 <header class="banner"><h1>JobBean</h1></header> 
+
+<div id="map" class="m1"></div>
+<!--
 <form action="{{ url_for('index') }}" method="POST">
   <label>Search</label>
    <input type="text" name="search_key" placeholder="Jobkategori">
    <input type="submit" name="Search" value="Next">
 </form>
-
 <div class="data-table">
     <h2>Results</h2>
     {% if divdata %}
@@ -20,10 +22,21 @@
     </div>
     {% endfor %}
     <div id="Total">
-        {{total}}
+        {{total_jobs}}
     </div>
     {% endif %}
 </div>
+-->
+    <!-- AJAX form instead of post -->
+<div class="ajaxSearch">
+    <input type="text" name="search_key_ajax" id="search_key_ajax" placeholder="Søg på en jobkategori">
+    <input type="submit" name="Søg" value="Search" onclick="return search_jobs()">
+    <!--<div id="ajax_results">Ajax Results</div>-->
+</div>
 
+    
 <script src="{{ url_for('static', filename='script/script.js') }}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpqwAaB83fs0Eu9MvXo1oYM93SvEqy_l4&callback=initMap&v=weekly" defer></script>
+<script type="text/javascript" src="dk.json"></script>
+
 {% endblock%}
