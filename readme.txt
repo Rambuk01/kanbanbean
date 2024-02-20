@@ -1,8 +1,6 @@
 kanbanbean
-A kanban board on AWS elastic beanstalk
 
-Code pipeline from git to awssta
+This small flask app takes jobdata from jobnet.dk, and places markers on google maps.
+The markers shows amount of jobs related to your search.
 
-
-dont forget:
-https://curlconverter.com/python/
+Project name doesnt make sense.
